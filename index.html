@@ -1,1 +1,25 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Town Reward Codes</title>
+</head>
+<body>
+  <h1>Travel Town Daily Reward Codes</h1>
+  <ul id="code-list"></ul>
+
+  <script>
+    fetch('data/codes.json')
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById('code-list');
+        data.forEach(item => {
+          const li = document.createElement('li');
+          li.innerHTML = `${item.code} - <a href='https://redeem.traveltowngame.com/redeem?code=${item.code}' target='_blank'>Redeem</a>`;
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
+</html>
