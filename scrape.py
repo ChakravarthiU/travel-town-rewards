@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 from datetime import datetime, timedelta
 
 URL = "https://mobilegamecentral.com/freebies/free-travel-town-energy-links-updated-daily/"
@@ -17,7 +18,7 @@ def fetch_codes():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Build list of dates to match
+    # Build list of date formats to match (e.g., "May 6, 2025" and "May 06, 2025")
     valid_dates = set()
     for i in range(DAYS_TO_LOOK_BACK):
         dt = datetime.utcnow() - timedelta(days=i)
@@ -25,7 +26,6 @@ def fetch_codes():
         padded_date = dt.strftime("%B %d, %Y")
         valid_dates.add(base_date)
         valid_dates.add(padded_date)
-        
 
     codes = []
     headings = soup.find_all(["h3"])
@@ -37,9 +37,12 @@ def fetch_codes():
                 for li in ol.find_all("li"):
                     link = li.find("a")
                     if link and link.get("href"):
+                        # Extract energy value (text after the link)
+                        full_text = li.get_text(" ", strip=True)
+                        energy_text = full_text.replace(link.get_text(strip=True), "").strip()
                         codes.append({
                             "code": link.get("href"),
-                            "text": link.get_text(strip=True),
+                            "text": link.get_text(strip=True) + (" " + energy_text if energy_text else ""),
                             "date": date_text,
                         })
 
