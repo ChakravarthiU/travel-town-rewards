@@ -37,12 +37,12 @@ def fetch_codes():
                 for li in ol.find_all("li"):
                     link = li.find("a")
                     if link and link.get("href"):
-                        # Extract energy value (text after the link)
                         full_text = li.get_text(" ", strip=True)
-                        energy_text = full_text.replace(link.get_text(strip=True), "").strip()
+                        energy_text = full_text.replace(link.get_text(strip=True), "").strip(" -")
                         codes.append({
                             "code": link.get("href"),
-                            "text": link.get_text(strip=True) + (" " + energy_text if energy_text else ""),
+                            "text": link.get_text(strip=True),
+                            "energy": energy_text,
                             "date": date_text,
                         })
 
