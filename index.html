@@ -59,7 +59,7 @@
           const ul = document.createElement('ul');
           grouped[date].forEach(code => {
             const li = document.createElement('li');
-            li.innerHTML = `<a href='${code.code}' target='_blank'>${code.text}</a>`;
+            li.innerHTML = `<a href='${code.code}' target='_blank'>${code.text}</a> – ${code.energy} 🔋`;
             ul.appendChild(li);
           });
 
