@@ -2,7 +2,7 @@ name: Update Reward Codes
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 6 AM UTC
+    - cron: '30 12 * * *'  # Runs daily at 12:30 PM UTC (6:00 PM IST)
   workflow_dispatch:
 
 jobs:
