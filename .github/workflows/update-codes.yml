@@ -30,4 +30,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/codes.json data/raw_page.html
           git commit -m "Update reward codes and raw HTML" || echo "No changes to commit"
-          git push https://x-access-token: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@github.com/${{ github.repository }}.git HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
