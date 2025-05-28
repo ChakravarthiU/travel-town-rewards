@@ -1,23 +1,70 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Travel Town Reward Codes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    .date-section {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      margin-top: 0;
+      color: #1e73be;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+  </style>
 </head>
 <body>
-  <h1>Travel Town Daily Reward Codes</h1>
-  <ul id="code-list"></ul>
+  <h1>🎁 Travel Town Daily Reward Codes</h1>
+  <div id="container"></div>
 
   <script>
     fetch('data/codes.json')
       .then(response => response.json())
       .then(data => {
-        const list = document.getElementById('code-list');
+        const grouped = {};
         data.forEach(item => {
-          const li = document.createElement('li');
-          li.innerHTML = `${item.code} - <a href='${item.code}' target='_blank'>Redeem</a>`;
-          list.appendChild(li);
+          if (!grouped[item.date]) grouped[item.date] = [];
+          grouped[item.date].push(item);
+        });
+
+        const container = document.getElementById('container');
+        Object.keys(grouped).forEach(date => {
+          const section = document.createElement('div');
+          section.className = 'date-section';
+
+          const heading = document.createElement('h2');
+          heading.textContent = date;
+          section.appendChild(heading);
+
+          const ul = document.createElement('ul');
+          grouped[date].forEach(code => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a href='${code.code}' target='_blank'>${code.text}</a>`;
+            ul.appendChild(li);
+          });
+
+          section.appendChild(ul);
+          container.appendChild(section);
         });
       });
   </script>
