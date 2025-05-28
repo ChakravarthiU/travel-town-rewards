@@ -27,6 +27,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           echo "Token is set: ${GH_TOKEN:0:10}****"
+          echo "GIT Repo is: github.com/${{ github.repository }}.git"
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/codes.json data/raw_page.html
