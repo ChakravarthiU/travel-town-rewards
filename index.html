@@ -16,7 +16,7 @@
         const list = document.getElementById('code-list');
         data.forEach(item => {
           const li = document.createElement('li');
-          li.innerHTML = `${item.code} - <a href='https://redeem.traveltowngame.com/redeem?code=${item.code}' target='_blank'>Redeem</a>`;
+          li.innerHTML = `${item.code} - <a href='${item.code}' target='_blank'>Redeem</a>`;
           list.appendChild(li);
         });
       });
