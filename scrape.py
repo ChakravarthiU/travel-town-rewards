@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 URL = "https://mobilegamecentral.com/freebies/free-travel-town-energy-links-updated-daily/"
 OUTPUT_FILE = "data/codes.json"
 RAW_HTML_FILE = "data/raw_page.html"
-
+DAYS_TO_LOOK_BACK = 5
 
 def fetch_codes():
     response = requests.get(URL)
@@ -17,31 +17,30 @@ def fetch_codes():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    codes = []
-    today = datetime.utcnow().strftime("%B %d, %Y")  # e.g., "May 27, 2025"
-    yesterday = (datetime.utcnow() - timedelta(days=1)).strftime("%B %d, %Y")
+    # Build list of dates to match
+    valid_dates = [
+        (datetime.utcnow() - timedelta(days=i)).strftime("%B %d, %Y")
+        for i in range(DAYS_TO_LOOK_BACK)
+    ]
 
-    # Find all headings with date
+    codes = []
     headings = soup.find_all(["h3"])
     for h in headings:
         date_text = h.get_text(strip=True)
-        if today in date_text or yesterday in date_text:
+        if any(valid_date in date_text for valid_date in valid_dates):
             ol = h.find_next_sibling("ol")
             if ol:
                 for li in ol.find_all("li"):
                     link = li.find("a")
                     if link and link.get("href"):
-                        codes.append(
-                            {
-                                "code": link.get("href"),
-                                "text": link.get_text(strip=True),
-                                "date": date_text,
-                            }
-                        )
+                        codes.append({
+                            "code": link.get("href"),
+                            "text": link.get_text(strip=True),
+                            "date": date_text,
+                        })
 
     with open(OUTPUT_FILE, "w") as f:
         json.dump(codes, f, indent=2)
-
 
 if __name__ == "__main__":
     fetch_codes()
