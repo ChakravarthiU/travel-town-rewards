@@ -18,10 +18,14 @@ def fetch_codes():
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Build list of dates to match
-    valid_dates = [
-        (datetime.utcnow() - timedelta(days=i)).strftime("%B %d, %Y")
-        for i in range(DAYS_TO_LOOK_BACK)
-    ]
+    valid_dates = set()
+    for i in range(DAYS_TO_LOOK_BACK):
+        dt = datetime.utcnow() - timedelta(days=i)
+        base_date = dt.strftime("%B %-d, %Y") if os.name != "nt" else dt.strftime("%B %#d, %Y")
+        padded_date = dt.strftime("%B %d, %Y")
+        valid_dates.add(base_date)
+        valid_dates.add(padded_date)
+        
 
     codes = []
     headings = soup.find_all(["h3"])
