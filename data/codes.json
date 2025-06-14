@@ -1,45 +1,69 @@
 [
   {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/mCnole2r_FCB",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 25 energy",
+    "date": "June 14, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/f9yZAZgj_FCB",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 25 energy",
+    "date": "June 13, 2025"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/Wi0oeLU8_INS",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 15 energy",
+    "date": "June 13, 2025"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/TYPL495T_TWI",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 15 energy",
+    "date": "June 13, 2025"
+  },
+  {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/PYhrKBXU_FCB",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 25 energy",
-    "date": "June 12, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 12, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/jH7jxaKk_INS",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 25 energy",
-    "date": "June 12, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 12, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/toAxHyHs_TRADING",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 10 energy",
-    "date": "June 12, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 12, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/NAb3Qmga_TWI",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 10 energy",
-    "date": "June 12, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 12, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/XBUXTwbi_FCB",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 25 energy",
-    "date": "June 11, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 11, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/BcOYfZu9_TWI",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 10 energy",
-    "date": "June 11, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 11, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/XCYBNKJI_INS",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 15 energy",
-    "date": "June 11, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+    "date": "June 11, 2025"
   },
   {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/iMQC0zjW_FCB",
@@ -70,29 +94,5 @@
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 25 energy",
     "date": "June 10, 2025"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/AaFn4FQW_FCB",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 25 energy",
-    "date": "June 9, 2025"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/62n4Hwjt_TWI",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 10 energy",
-    "date": "June 9, 2025"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/ZLqeybjI_EMAIL",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 25 energy",
-    "date": "June 9, 2025"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/CrEy3u1V_INS",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 15 energy",
-    "date": "June 9, 2025"
   }
 ]
