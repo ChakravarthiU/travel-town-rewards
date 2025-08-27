@@ -1,5 +1,29 @@
 [
   {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/DndeH0sG_FCB",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 25 energy",
+    "date": "August 26, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/SMC1enkY_INS",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 15 energy",
+    "date": "August 26, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/1JNvuZTm_TWI",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 10 energy",
+    "date": "August 26, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+  },
+  {
+    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/GjGFpakr_TRADING",
+    "text": "Claim Travel Town Energy",
+    "energy": "\u2013 10 energy",
+    "date": "August 26, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
+  },
+  {
     "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/jPz8Dqrh_TRADING",
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 10 energy",
@@ -22,23 +46,5 @@
     "text": "Claim Travel Town Energy",
     "energy": "\u2013 15 energy",
     "date": "August 25, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/y6FGZItu_FCB",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 25 energy",
-    "date": "August 22, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/8U6tVI26_INS",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 15 energy",
-    "date": "August 22, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
-  },
-  {
-    "code": "https://api.traveltowngame.net/public/rewardLinks/getLink/nIZnaXvQ_TWI",
-    "text": "Claim Travel Town Energy",
-    "energy": "\u2013 10 energy",
-    "date": "August 22, 2025\u2013 NEW\ud83d\udd0b\ud83d\udd0b\ud83d\udd0b"
   }
 ]
