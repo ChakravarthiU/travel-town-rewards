@@ -5,6 +5,7 @@ import os
 from datetime import datetime, timedelta
 
 URL = "https://mobilegamecentral.com/freebies/free-travel-town-energy-links-updated-daily/"
+URL = "https://frvr.com/blog/travel-town-free-energy-links/"
 OUTPUT_FILE = "data/codes.json"
 RAW_HTML_FILE = "data/raw_page.html"
 DAYS_TO_LOOK_BACK = 5
