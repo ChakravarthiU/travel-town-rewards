@@ -82,10 +82,18 @@
                     grouped[dateKey].push(entry);
                 });
 
+                // Sort dates descending and take last 3 unique dates
+                const sortedDates = Object.keys(grouped).sort((a, b) => {
+                    // Parse date strings into Date objects if possible
+                    const da = new Date(a);
+                    const db = new Date(b);
+                    return db - da; // descending
+                }).slice(0, 3);
+
                 const contentDiv = document.getElementById('content');
                 contentDiv.innerHTML = '';
 
-                Object.keys(grouped).forEach(date => {
+                sortedDates.forEach(date => {
                     const heading = document.createElement('h2');
                     heading.textContent = date;
                     contentDiv.appendChild(heading);
