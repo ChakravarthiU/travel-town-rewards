@@ -3,15 +3,18 @@
 
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel Town Reward Codes</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 10px;
+            font-size: 16px;
         }
 
         h1 {
             color: #333;
+            font-size: 1.5em;
         }
 
         #status {
@@ -22,12 +25,18 @@
         h2 {
             margin-top: 20px;
             color: #444;
+            font-size: 1.2em;
+        }
+
+        .table-container {
+            overflow-x: auto;
+            margin-bottom: 20px;
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
+            min-width: 300px;
         }
 
         th,
@@ -35,6 +44,7 @@
             border: 1px solid #ccc;
             padding: 8px;
             text-align: left;
+            font-size: 14px;
         }
 
         th {
@@ -48,6 +58,43 @@
 
         a:hover {
             text-decoration: underline;
+        }
+
+        /* Responsive card-style layout for small screens */
+        @media (max-width: 600px) {
+
+            table,
+            thead,
+            tbody,
+            th,
+            td,
+            tr {
+                display: block;
+            }
+
+            thead tr {
+                display: none;
+            }
+
+            tr {
+                margin-bottom: 15px;
+                border: 1px solid #ccc;
+                padding: 10px;
+                background: #fafafa;
+            }
+
+            td {
+                border: none;
+                padding: 5px 0;
+                font-size: 15px;
+            }
+
+            td::before {
+                content: attr(data-label);
+                font-weight: bold;
+                display: block;
+                margin-bottom: 3px;
+            }
         }
     </style>
 </head>
@@ -83,12 +130,7 @@
                 });
 
                 // Sort dates descending and take last 3 unique dates
-                const sortedDates = Object.keys(grouped).sort((a, b) => {
-                    // Parse date strings into Date objects if possible
-                    const da = new Date(a);
-                    const db = new Date(b);
-                    return db - da; // descending
-                }).slice(0, 3);
+                const sortedDates = Object.keys(grouped).sort((a, b) => new Date(b) - new Date(a)).slice(0, 3);
 
                 const contentDiv = document.getElementById('content');
                 contentDiv.innerHTML = '';
@@ -98,6 +140,9 @@
                     heading.textContent = date;
                     contentDiv.appendChild(heading);
 
+                    const container = document.createElement('div');
+                    container.className = 'table-container';
+
                     const table = document.createElement('table');
                     const thead = document.createElement('thead');
                     thead.innerHTML = '<tr><th>Reward</th><th>Link</th></tr>';
@@ -106,11 +151,12 @@
                     const tbody = document.createElement('tbody');
                     grouped[date].forEach(entry => {
                         const row = document.createElement('tr');
-                        row.innerHTML = `<td>${entry.reward || ''}</td><td><a href="${entry.url}" target="_blank" rel="noopener">Redeem</a></td>`;
+                        row.innerHTML = `<td data-label="Reward">${entry.reward || ''}</td><td data-label="Link"><a href="${entry.url}" target="_blank" rel="noopener">Redeem</a></td>`;
                         tbody.appendChild(row);
                     });
                     table.appendChild(tbody);
-                    contentDiv.appendChild(table);
+                    container.appendChild(table);
+                    contentDiv.appendChild(container);
                 });
             } catch (err) {
                 document.getElementById('status').textContent = 'Failed to load codes: ' + err.message;
