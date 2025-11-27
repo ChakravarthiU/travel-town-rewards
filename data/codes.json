@@ -1,6 +1,42 @@
 {
-  "updated_utc": "2025-11-26T19:10:49Z",
+  "updated_utc": "2025-11-27T13:09:50Z",
   "entries": [
+    {
+      "date": "November 27, 2025",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/pano5ui7",
+      "source": "frvr"
+    },
+    {
+      "date": "November 27, 2025",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/t1WQKCA7",
+      "source": "frvr"
+    },
+    {
+      "date": "November 27, 2025",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/bZ7NFtJC",
+      "source": "frvr"
+    },
+    {
+      "date": "November 26, 2025",
+      "reward": "25 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/fjMgP5y0_PUSH",
+      "source": "frvr"
+    },
+    {
+      "date": "November 26, 2025",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3CuQXrEJ_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "November 26, 2025",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/uKIL2CE7",
+      "source": "frvr"
+    },
     {
       "date": "November 26, 2025",
       "reward": "15 Energy",
@@ -191,30 +227,6 @@
       "date": "November 19, 2025",
       "reward": "10 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/kNl7UWQF_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "November 18, 2025",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/8Cz7ytCs",
-      "source": "frvr"
-    },
-    {
-      "date": "November 18, 2025",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/iGMpgsTs",
-      "source": "frvr"
-    },
-    {
-      "date": "November 18, 2025",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/OS23kVNk",
-      "source": "frvr"
-    },
-    {
-      "date": "November 18, 2025",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/nkpyUGHi_TRADING",
       "source": "frvr"
     }
   ]
