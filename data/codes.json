@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2025-12-24T13:09:22Z",
+  "updated_utc": "2025-12-25T13:09:17Z",
   "entries": [
+    {
+      "date": "December 25, 2025",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/sCmAhxNc",
+      "source": "frvr"
+    },
+    {
+      "date": "December 25, 2025",
+      "reward": "40 Energy",
+      "url": "https://travel-town-app.com/WC2WgG7c",
+      "source": "frvr"
+    },
+    {
+      "date": "December 25, 2025",
+      "reward": "25 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/A9w8Ljg0_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "December 24, 2025",
+      "reward": "30 Energy",
+      "url": "https://travel-town-app.com/RoZwXiFa",
+      "source": "frvr"
+    },
+    {
+      "date": "December 24, 2025",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/HG7o422X",
+      "source": "frvr"
+    },
     {
       "date": "December 24, 2025",
       "reward": "10 Energy",
@@ -191,36 +221,6 @@
       "date": "December 17, 2025",
       "reward": "25 Energy",
       "url": "https://travel-town-app.com/O0WnNoe1",
-      "source": "frvr"
-    },
-    {
-      "date": "December 16, 2025",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/25zDeF3C_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "December 16, 2025",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/VDyOL4St_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "December 16, 2025",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/7fX5BhVO_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "December 16, 2025",
-      "reward": "15 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/t1oBq4FI_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "December 16, 2025",
-      "reward": "25 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3dvQyI46_TRADING",
       "source": "frvr"
     }
   ]
