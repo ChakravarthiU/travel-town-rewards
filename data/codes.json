@@ -1,6 +1,42 @@
 {
-  "updated_utc": "2026-01-18T13:07:25Z",
+  "updated_utc": "2026-01-19T13:27:16Z",
   "entries": [
+    {
+      "date": "January 19, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/oTLFSfv7",
+      "source": "frvr"
+    },
+    {
+      "date": "January 19, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/8F0Hx57U",
+      "source": "frvr"
+    },
+    {
+      "date": "January 19, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/H6GgGCIx",
+      "source": "frvr"
+    },
+    {
+      "date": "January 19, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/grYbYwjs_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "January 19, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/8iKRH4Iy_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "January 18, 2026",
+      "reward": "20 Energy",
+      "url": "https://travel-town-app.com/9ylnSvvq",
+      "source": "frvr"
+    },
     {
       "date": "January 18, 2026",
       "reward": "15 Energy",
@@ -119,30 +155,6 @@
       "date": "January 15, 2026",
       "reward": "20 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/GjdY25X0_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "January 14, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/CIq1hbR7",
-      "source": "frvr"
-    },
-    {
-      "date": "January 14, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/LTHPzaUs",
-      "source": "frvr"
-    },
-    {
-      "date": "January 14, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/gkh0YHdv",
-      "source": "frvr"
-    },
-    {
-      "date": "January 14, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/v3yjQTOJ_TRADING",
       "source": "frvr"
     }
   ]
