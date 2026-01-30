@@ -1,6 +1,42 @@
 {
-  "updated_utc": "2026-01-29T13:39:32Z",
+  "updated_utc": "2026-01-30T13:37:05Z",
   "entries": [
+    {
+      "date": "January 30, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/hAsY9hJo",
+      "source": "frvr"
+    },
+    {
+      "date": "January 30, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/97UgMmmI",
+      "source": "frvr"
+    },
+    {
+      "date": "January 30, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/8VmBddl3_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "January 29, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/FsuCozPn",
+      "source": "frvr"
+    },
+    {
+      "date": "January 29, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/QBr6UE3A",
+      "source": "frvr"
+    },
+    {
+      "date": "January 29, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/Za2YdGSx",
+      "source": "frvr"
+    },
     {
       "date": "January 29, 2026",
       "reward": "10 Energy",
@@ -137,36 +173,6 @@
       "date": "January 24, 2026",
       "reward": "30 Energy",
       "url": "https://travel-town-app.com/JOf3rnDg",
-      "source": "frvr"
-    },
-    {
-      "date": "January 23, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/Dg1qdbH2",
-      "source": "frvr"
-    },
-    {
-      "date": "January 23, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/m6RcqTWs",
-      "source": "frvr"
-    },
-    {
-      "date": "January 23, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/kwclf0Bl",
-      "source": "frvr"
-    },
-    {
-      "date": "January 23, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/iSkDr4hU",
-      "source": "frvr"
-    },
-    {
-      "date": "January 23, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ZovNGx8z_TRADING",
       "source": "frvr"
     }
   ]
