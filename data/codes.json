@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-02-09T13:54:31Z",
+  "updated_utc": "2026-02-10T14:01:11Z",
   "entries": [
+    {
+      "date": "February 10, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/zrWU1cwq",
+      "source": "frvr"
+    },
+    {
+      "date": "February 10, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/JaKLyOuJ",
+      "source": "frvr"
+    },
+    {
+      "date": "February 10, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/W2Ymx5SK_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "February 9, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/8BwiSbtz",
+      "source": "frvr"
+    },
+    {
+      "date": "February 9, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/cNQFErO0",
+      "source": "frvr"
+    },
     {
       "date": "February 9, 2026",
       "reward": "25 Energy",
@@ -113,30 +143,6 @@
       "date": "February 5, 2026",
       "reward": "10 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/W1xsvaHx_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "February 4, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/rD3Hp6f4",
-      "source": "frvr"
-    },
-    {
-      "date": "February 4, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/DtV9v3IJ",
-      "source": "frvr"
-    },
-    {
-      "date": "February 4, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/MqGzMHvp",
-      "source": "frvr"
-    },
-    {
-      "date": "February 4, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/CdlI7bbu_TRADING",
       "source": "frvr"
     }
   ]
