@@ -1,6 +1,48 @@
 {
-  "updated_utc": "2026-02-17T13:46:39Z",
+  "updated_utc": "2026-02-18T13:48:08Z",
   "entries": [
+    {
+      "date": "February 18, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/DwfmRndN",
+      "source": "frvr"
+    },
+    {
+      "date": "February 18, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/IYrhJxFn_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "February 18, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/klVHxEFq_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "February 17, 2026",
+      "reward": "25 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/kqoE9QcK_PUSH",
+      "source": "frvr"
+    },
+    {
+      "date": "February 17, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/GowqpTtB",
+      "source": "frvr"
+    },
+    {
+      "date": "February 17, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/krPSEcVy",
+      "source": "frvr"
+    },
+    {
+      "date": "February 17, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/mQKocd8m",
+      "source": "frvr"
+    },
     {
       "date": "February 16, 2026",
       "reward": "20 Energy",
@@ -155,30 +197,6 @@
       "date": "February 12, 2026",
       "reward": "20 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/NeSb8ENU_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "February 11, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/R4sG1pQN",
-      "source": "frvr"
-    },
-    {
-      "date": "February 11, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/oyAG0qL4",
-      "source": "frvr"
-    },
-    {
-      "date": "February 11, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/hKgeDH2q",
-      "source": "frvr"
-    },
-    {
-      "date": "February 11, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/0Kxuulus_WA",
       "source": "frvr"
     }
   ]
