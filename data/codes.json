@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-02-19T13:48:58Z",
+  "updated_utc": "2026-02-20T13:41:06Z",
   "entries": [
+    {
+      "date": "February 20, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/XpDKsCnu",
+      "source": "frvr"
+    },
+    {
+      "date": "February 20, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/NEMHMZms",
+      "source": "frvr"
+    },
+    {
+      "date": "February 20, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/sY51NaQO_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "February 19, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/X72VICIB",
+      "source": "frvr"
+    },
+    {
+      "date": "February 19, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/jvlKDrWQ",
+      "source": "frvr"
+    },
     {
       "date": "February 19, 2026",
       "reward": "25 Energy",
@@ -167,36 +197,6 @@
       "date": "February 14, 2026",
       "reward": "25 Energy",
       "url": "https://travel-town-app.com/xkcwO7uM",
-      "source": "frvr"
-    },
-    {
-      "date": "February 13, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/plZA1tlQ_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "February 13, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/uv7kamRI",
-      "source": "frvr"
-    },
-    {
-      "date": "February 13, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/Iu1TCgmn",
-      "source": "frvr"
-    },
-    {
-      "date": "February 13, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/tmSIMLAt",
-      "source": "frvr"
-    },
-    {
-      "date": "February 13, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/z3znz0S4_WA",
       "source": "frvr"
     }
   ]
