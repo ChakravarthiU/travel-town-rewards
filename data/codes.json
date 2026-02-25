@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-02-24T13:50:45Z",
+  "updated_utc": "2026-02-25T13:50:10Z",
   "entries": [
+    {
+      "date": "February 25, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/anzC7H4P",
+      "source": "frvr"
+    },
+    {
+      "date": "February 25, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/LltcZn5l_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "February 25, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/WHdaYLoL_WA?",
+      "source": "frvr"
+    },
+    {
+      "date": "February 24, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/llfB3Ao5",
+      "source": "frvr"
+    },
+    {
+      "date": "February 24, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/1GAaCf82",
+      "source": "frvr"
+    },
     {
       "date": "February 24, 2026",
       "reward": "25 Energy",
@@ -149,36 +179,6 @@
       "date": "February 19, 2026",
       "reward": "10 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/fb9OtszY_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "February 18, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/5hKJ7J3n",
-      "source": "frvr"
-    },
-    {
-      "date": "February 18, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/GDS4HRql",
-      "source": "frvr"
-    },
-    {
-      "date": "February 18, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/DwfmRndN",
-      "source": "frvr"
-    },
-    {
-      "date": "February 18, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/IYrhJxFn_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "February 18, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/klVHxEFq_WA",
       "source": "frvr"
     }
   ]
