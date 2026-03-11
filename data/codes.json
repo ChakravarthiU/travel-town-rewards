@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-03-10T13:43:30Z",
+  "updated_utc": "2026-03-11T13:45:27Z",
   "entries": [
+    {
+      "date": "March 11, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/o7zmPBZo_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "March 11, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ki6A1d6O_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "March 10, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/13YeEaiq",
+      "source": "frvr"
+    },
+    {
+      "date": "March 10, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/CKvR92MC",
+      "source": "frvr"
+    },
+    {
+      "date": "March 10, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/GqmL5yaq",
+      "source": "frvr"
+    },
     {
       "date": "March 10, 2026",
       "reward": "10 Energy",
@@ -149,30 +179,6 @@
       "date": "March 4, 2026",
       "reward": "10 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ijNSUmiD_TRADING?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "March 3, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/w2RXYDns",
-      "source": "frvr"
-    },
-    {
-      "date": "March 3, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/NmBCTJZC",
-      "source": "frvr"
-    },
-    {
-      "date": "March 3, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/weHiwmqY",
-      "source": "frvr"
-    },
-    {
-      "date": "March 3, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ijNSUmiD_TRADING",
       "source": "frvr"
     }
   ]
