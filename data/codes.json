@@ -1,6 +1,30 @@
 {
-  "updated_utc": "2026-05-03T13:54:44Z",
+  "updated_utc": "2026-05-04T14:38:26Z",
   "entries": [
+    {
+      "date": "May 4, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/nf7kq39a_WAT",
+      "source": "frvr"
+    },
+    {
+      "date": "May 4, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/sELiu298_WA",
+      "source": "frvr"
+    },
+    {
+      "date": "May 3, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/4cOYfQC",
+      "source": "frvr"
+    },
+    {
+      "date": "May 3, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/4cQ9etc",
+      "source": "frvr"
+    },
     {
       "date": "May 3, 2026",
       "reward": "25 Energy",
@@ -33,7 +57,7 @@
     },
     {
       "date": "May 2, 2026",
-      "reward": "10 Energy",
+      "reward": "20 Energy",
       "url": "https://travel-town-app.com/4ec9MvO",
       "source": "frvr"
     },
@@ -143,252 +167,6 @@
       "date": "April 29, 2026",
       "reward": "20 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/eTVUC451_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 28, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/0EFAdVf8",
-      "source": "frvr"
-    },
-    {
-      "date": "April 28, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/SiTNBRLT",
-      "source": "frvr"
-    },
-    {
-      "date": "April 28, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/Vwa0v7Ax",
-      "source": "frvr"
-    },
-    {
-      "date": "April 28, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/9jNu55zz_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 28, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/taxC6Urc_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 27, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/cgu9C0ys",
-      "source": "frvr"
-    },
-    {
-      "date": "April 27, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/wS7OJp0t",
-      "source": "frvr"
-    },
-    {
-      "date": "April 27, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/jFu6CLQn",
-      "source": "frvr"
-    },
-    {
-      "date": "April 27, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/2RbbMNe2_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 27, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/yOxi2Xll_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 26, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/NTmm0fUO",
-      "source": "frvr"
-    },
-    {
-      "date": "April 26, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/WJX1I8x7",
-      "source": "frvr"
-    },
-    {
-      "date": "April 26, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/a1IJhBDt",
-      "source": "frvr"
-    },
-    {
-      "date": "April 26, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/EJZZrzqQ_WAT",
-      "source": "frvr"
-    },
-    {
-      "date": "April 26, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Gsul4cIt_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 25, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/ODF6luCW",
-      "source": "frvr"
-    },
-    {
-      "date": "April 25, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/stfSMdmP",
-      "source": "frvr"
-    },
-    {
-      "date": "April 25, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/emX28T7f",
-      "source": "frvr"
-    },
-    {
-      "date": "April 25, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/dNckfEol_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 24, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/pzxC45ED",
-      "source": "frvr"
-    },
-    {
-      "date": "April 24, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/Yx2GakfG",
-      "source": "frvr"
-    },
-    {
-      "date": "April 24, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/PZ2d6AXa",
-      "source": "frvr"
-    },
-    {
-      "date": "April 24, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/Hdn6bZtx_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 24, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/hkfQUVzA_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/lmTlQsa9",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/wJTUAm7F",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/KDN62X3d",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/18rTj5cj",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/ezOnjZ45_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 23, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/R6x9tTQ4_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 22, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/RJoDTX9Y",
-      "source": "frvr"
-    },
-    {
-      "date": "April 22, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/3f8zksJQ",
-      "source": "frvr"
-    },
-    {
-      "date": "April 22, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/XIbZRMPD",
-      "source": "frvr"
-    },
-    {
-      "date": "April 22, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/LpUaQy80_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "25 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/VsZ2blhf_PUSH",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/3AZvtc6B_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/HVw2VHvO",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/43KEfyr3",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/yzt4ZLBX",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/oIPl2o3f_WA",
-      "source": "frvr"
-    },
-    {
-      "date": "April 21, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/B6SEml8H_WA",
       "source": "frvr"
     }
   ]
