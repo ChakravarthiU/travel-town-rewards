@@ -1,6 +1,18 @@
 {
-  "updated_utc": "2026-06-02T17:03:09Z",
+  "updated_utc": "2026-06-03T17:27:32Z",
   "entries": [
+    {
+      "date": "June 3, 2026",
+      "reward": "10 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/43HBiHaS_TRADING",
+      "source": "frvr"
+    },
+    {
+      "date": "June 3, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/n5sMT8JX_WA",
+      "source": "frvr"
+    },
     {
       "date": "June 2, 2026",
       "reward": "20 Energy",
