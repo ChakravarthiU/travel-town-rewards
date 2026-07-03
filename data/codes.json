@@ -1,6 +1,36 @@
 {
-  "updated_utc": "2026-07-02T14:40:30Z",
+  "updated_utc": "2026-07-03T14:52:37Z",
   "entries": [
+    {
+      "date": "July 2, 2026",
+      "reward": "20 Energy",
+      "url": "https://travel-town-app.com/NJOvyVR9",
+      "source": "frvr"
+    },
+    {
+      "date": "July 2, 2026",
+      "reward": "15 Energy",
+      "url": "https://travel-town-app.com/w6FhIjtY",
+      "source": "frvr"
+    },
+    {
+      "date": "July 2, 2026",
+      "reward": "10 Energy",
+      "url": "https://travel-town-app.com/zhGOC9KM",
+      "source": "frvr"
+    },
+    {
+      "date": "July 2, 2026",
+      "reward": "25 Energy",
+      "url": "https://travel-town-app.com/lMexMfvn",
+      "source": "frvr"
+    },
+    {
+      "date": "July 2, 2026",
+      "reward": "20 Energy",
+      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/50bPJM5o_WA",
+      "source": "frvr"
+    },
     {
       "date": "July 1, 2026",
       "reward": "20 Energy",
@@ -71,90 +101,6 @@
       "date": "June 30, 2026",
       "reward": "10 Energy",
       "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/1GCLTlcN_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "20 Energy",
-      "url": "https://travel-town-app.com/mcy999ZD?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/VzjR04vt?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/MLh41GJM?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/yEf1N1g3?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/1DHr1qlF_TRADING?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 29, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/oHFiIFHr_WA?ref=gamexlite.com",
-      "source": "frvr"
-    },
-    {
-      "date": "June 28, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/CxdfNZAZ",
-      "source": "frvr"
-    },
-    {
-      "date": "June 28, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/E1BYdzhu",
-      "source": "frvr"
-    },
-    {
-      "date": "June 28, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/Iwz4c6L5",
-      "source": "frvr"
-    },
-    {
-      "date": "June 28, 2026",
-      "reward": "10 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/tMxaMfDD_TRADING",
-      "source": "frvr"
-    },
-    {
-      "date": "June 27, 2026",
-      "reward": "15 Energy",
-      "url": "https://travel-town-app.com/nc24RDCh",
-      "source": "frvr"
-    },
-    {
-      "date": "June 27, 2026",
-      "reward": "10 Energy",
-      "url": "https://travel-town-app.com/szlpwz7r",
-      "source": "frvr"
-    },
-    {
-      "date": "June 27, 2026",
-      "reward": "25 Energy",
-      "url": "https://travel-town-app.com/lmMh9pri",
-      "source": "frvr"
-    },
-    {
-      "date": "June 27, 2026",
-      "reward": "20 Energy",
-      "url": "https://api.traveltowngame.net/public/rewardLinks/getLink/5kJ5WM5C_WA",
       "source": "frvr"
     }
   ]
